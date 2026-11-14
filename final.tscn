@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://ccp72yv4wled4"]
+
+[ext_resource type="Texture2D" uid="uid://dg6notmh7gbox" path="res://0044a60f9b062cb6bad14cccdc4acf2b.png" id="1_h0aww"]
+
+[node name="Coin" type="CharacterBody2D" unique_id=754137829]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=91149100]
+position = Vector2(61.999996, 15.999998)
+scale = Vector2(0.15624996, 0.18125)
+texture = ExtResource("1_h0aww")
